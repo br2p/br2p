@@ -1,1 +1,3 @@
-![carbon (1)](https://user-images.githubusercontent.com/111700617/185805517-ed35127b-b738-441c-ab85-b47dab8f7352.png)
+# Hey, there! I'm Nick! 😄
+<h3 align="center">Since your browsing my profile, you should also checkout my twitter! @<a href="https://twitter.com/nickhatesJS">nickhatesJS</a> 🐦</h3>
+<h2 align="center">Keep programming and stay awesome! 👋</h2>
